@@ -347,11 +347,6 @@
     padding:20px 0;
 
   }
-  /* .footer-bottom-right {
-    left: 16px;
-    width: 100%;
-    top: 169px;
-  } */
   .l1-heading > img{
     display:flex
   }
@@ -381,7 +376,7 @@
     justify-content: space-between;
   }
   .height536{
-    height : 536px
+    height : 571px
   }
   .footer-bottom {
     height: 341px;
